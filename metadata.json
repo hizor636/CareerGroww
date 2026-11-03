@@ -1,0 +1,8 @@
+{
+  "name": "CareerGroww - Career Growth Platform",
+  "description": "Turning Potential into Profession. An AI-powered career growth platform with expert courses, resume analyzer, skill gap detection, career roadmaps, job boards, mentor bookings, and 24/7 AI Career Mentor.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
